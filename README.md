@@ -2,14 +2,10 @@
 
 I'm Richard, living in Wales and on a journey to turn curiosity into code.
 
-📚 Currently learning Python, HTML, CSS, and JavaScript.  
-🎯 My goal is to become proficient in Python and web development.
-
-
 ## About Me
 
-📚 Computer hobbyist exploring the world of coding. Also interested in HTML, CSS, and JavaScript.  
-🎯 Goals: To become proficient in Python and web development.
+📚 Currently learning Python, HTML, CSS, and JavaScript.   
+🎯 My goal is to become proficient in Python and web development.
 
 ## I code with
 
