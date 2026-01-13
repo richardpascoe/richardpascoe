@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Richard Pascoe and I'm from the United Kingdom.</p>
+<p align="left">I'm Richard, living in Wales, and exploring the world of coding.</p>
 
 ###
 
