@@ -7,7 +7,7 @@ I'm Richard, living in Wales and on a journey to turn curiosity into code.
 📚 Currently learning Python, HTML, CSS, and JavaScript.   
 🎯 My goal is to become proficient in Python and web development.
 
-## I code with
+## I Code With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -19,7 +19,7 @@ I'm Richard, living in Wales and on a journey to turn curiosity into code.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-## Find me here
+## Find Me Here
 
 <div align="left">
   <a href="https://dev.to/richardpascoe" target="_blank">
