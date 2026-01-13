@@ -23,6 +23,6 @@ I'm Richard, living in Wales and on a journey to turn curiosity into code.
 
 <div align="left">
   <a href="https://dev.to/richardpascoe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="40" height="40" alt="devto logo"  />
   </a>
 </div>
