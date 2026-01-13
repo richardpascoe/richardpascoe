@@ -1,22 +1,17 @@
-<h1 align="left">Hello World👋</h1>
+# Hello World 👋
 
-###
+I'm Richard, living in Wales and on a journey to turn curiosity into code.
 
-<p align="left">I'm Richard, living in Wales, and exploring the world of coding.</p>
+📚 Currently learning Python, HTML, CSS, and JavaScript.  
+🎯 My goal is to become proficient in Python and web development.
 
-###
 
-<h2 align="left">About me</h2>
+## About Me
 
-###
+📚 Computer hobbyist exploring the world of coding. Also interested in HTML, CSS, and JavaScript.  
+🎯 Goals: To become proficient in Python and web development.
 
-<p align="left">📚 Computer hobbyist who is currently exploring Python. Also interested in HTML, CSS, and JavaScript.<br>🎯 Goals: To become proficient in Python and with Web Development.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,16 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
-
-<h2 align="left">Find me here</h2>
-
-###
+## Find me here
 
 <div align="left">
   <a href="https://dev.to/richardpascoe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
-
-###
